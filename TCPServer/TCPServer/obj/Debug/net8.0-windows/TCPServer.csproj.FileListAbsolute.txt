@@ -1,0 +1,16 @@
+S:\Prak Jarkom\Week 4\TCPServer\TCPServer\obj\Debug\net8.0-windows\TCPServer.Form1.resources
+S:\Prak Jarkom\Week 4\TCPServer\TCPServer\obj\Debug\net8.0-windows\TCPServer.csproj.GenerateResource.cache
+S:\Prak Jarkom\Week 4\TCPServer\TCPServer\obj\Debug\net8.0-windows\TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+S:\Prak Jarkom\Week 4\TCPServer\TCPServer\obj\Debug\net8.0-windows\TCPServer.AssemblyInfoInputs.cache
+S:\Prak Jarkom\Week 4\TCPServer\TCPServer\obj\Debug\net8.0-windows\TCPServer.AssemblyInfo.cs
+S:\Prak Jarkom\Week 4\TCPServer\TCPServer\obj\Debug\net8.0-windows\TCPServer.csproj.CoreCompileInputs.cache
+S:\Prak Jarkom\Week 4\TCPServer\TCPServer\bin\Debug\net8.0-windows\TCPServer.exe
+S:\Prak Jarkom\Week 4\TCPServer\TCPServer\bin\Debug\net8.0-windows\TCPServer.deps.json
+S:\Prak Jarkom\Week 4\TCPServer\TCPServer\bin\Debug\net8.0-windows\TCPServer.runtimeconfig.json
+S:\Prak Jarkom\Week 4\TCPServer\TCPServer\bin\Debug\net8.0-windows\TCPServer.dll
+S:\Prak Jarkom\Week 4\TCPServer\TCPServer\bin\Debug\net8.0-windows\TCPServer.pdb
+S:\Prak Jarkom\Week 4\TCPServer\TCPServer\obj\Debug\net8.0-windows\TCPServer.dll
+S:\Prak Jarkom\Week 4\TCPServer\TCPServer\obj\Debug\net8.0-windows\refint\TCPServer.dll
+S:\Prak Jarkom\Week 4\TCPServer\TCPServer\obj\Debug\net8.0-windows\TCPServer.pdb
+S:\Prak Jarkom\Week 4\TCPServer\TCPServer\obj\Debug\net8.0-windows\TCPServer.genruntimeconfig.cache
+S:\Prak Jarkom\Week 4\TCPServer\TCPServer\obj\Debug\net8.0-windows\ref\TCPServer.dll
