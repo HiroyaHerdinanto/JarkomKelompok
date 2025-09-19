@@ -1,0 +1,10 @@
+C:\Users\Val\Documents\Projarkom\Client\bin\Debug\Client.exe.config
+C:\Users\Val\Documents\Projarkom\Client\bin\Debug\Client.exe
+C:\Users\Val\Documents\Projarkom\Client\bin\Debug\Client.pdb
+C:\Users\Val\Documents\Projarkom\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Val\Documents\Projarkom\Client\obj\Debug\Client.Form1.resources
+C:\Users\Val\Documents\Projarkom\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Val\Documents\Projarkom\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Val\Documents\Projarkom\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Val\Documents\Projarkom\Client\obj\Debug\Client.exe
+C:\Users\Val\Documents\Projarkom\Client\obj\Debug\Client.pdb

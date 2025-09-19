@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Val\\Documents\\Projarkom\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B94B07-CD1F-4AA3-A1D5-FFAED3CE23AD}|Server.csproj|c:\\users\\val\\documents\\projarkom\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B94B07-CD1F-4AA3-A1D5-FFAED3CE23AD}|Server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1B94B07-CD1F-4AA3-A1D5-FFAED3CE23AD}|Server.csproj|c:\\users\\val\\documents\\projarkom\\server\\serverchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1B94B07-CD1F-4AA3-A1D5-FFAED3CE23AD}|Server.csproj|solutionrelative:serverchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServerChat.cs",
+              "DocumentMoniker": "C:\\Users\\Val\\Documents\\Projarkom\\Server\\ServerChat.cs",
+              "RelativeDocumentMoniker": "ServerChat.cs",
+              "ToolTip": "C:\\Users\\Val\\Documents\\Projarkom\\Server\\ServerChat.cs",
+              "RelativeToolTip": "ServerChat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:49:21.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Val\\Documents\\Projarkom\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Val\\Documents\\Projarkom\\Server\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAgwC4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T12:52:18.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
