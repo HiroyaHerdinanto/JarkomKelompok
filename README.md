@@ -1,1 +1,1 @@
-# JarkomKelompok
+# Praktikum Jarkom Pak Rizky
